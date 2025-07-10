@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
     "@types/node": "20.0.0",
     "@types/react-dom": "18.0.0",
     "@types/uuid": "^9.0.0",
